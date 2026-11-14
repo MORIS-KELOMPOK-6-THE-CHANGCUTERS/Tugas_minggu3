@@ -1,0 +1,32 @@
+[
+  {
+    "kode": "IF101",
+    "nama": "Algoritma dan Pemrograman",
+    "sks": 3,
+    "dosen": "Dr. Budi Raharjo"
+  },
+  {
+    "kode": "IF102",
+    "nama": "Basis Data",
+    "sks": 3,
+    "dosen": "Dr. Siti Aminah"
+  },
+  {
+    "kode": "IF103",
+    "nama": "Statistika",
+    "sks": 2,
+    "dosen": "Dr. Joko Susilo"
+  },
+  {
+    "kode": "SI201",
+    "nama": "Analisis Sistem",
+    "sks": 3,
+    "dosen": "Dr. Rina Wati"
+  },
+  {
+    "kode": "IF301",
+    "nama": "Pemrograman Web",
+    "sks": 4,
+    "dosen": "Dr. Andi Setiawan"
+  }
+]
