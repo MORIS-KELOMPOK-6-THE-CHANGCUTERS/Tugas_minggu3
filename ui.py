@@ -1,7 +1,3 @@
-"""
-UI Helper: ANSI color & formatting untuk CLI responsive.
-"""
-
 import shutil
 
 RESET = "\033[0m"

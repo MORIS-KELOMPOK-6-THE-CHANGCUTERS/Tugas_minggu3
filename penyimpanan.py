@@ -1,6 +1,5 @@
 """
 Modul penyimpanan: mengatur baca/tulis file JSON, backup, dan persiapan folder data.
-Hanya menggunakan library bawaan Python.
 """
 
 import json

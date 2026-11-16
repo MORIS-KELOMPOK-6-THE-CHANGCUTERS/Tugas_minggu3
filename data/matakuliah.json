@@ -3,30 +3,30 @@
     "kode": "IF101",
     "nama": "Algoritma dan Pemrograman",
     "sks": 3,
-    "dosen": "Dr. Budi Raharjo"
+    "dosen": "Dr. Mohamad Nurkamal Fauzan, S.T., M.T."
   },
   {
     "kode": "IF102",
-    "nama": "Basis Data",
+    "nama": "Literasi Teknologi",
     "sks": 3,
-    "dosen": "Dr. Siti Aminah"
+    "dosen": "Roni Habibi, S.Kom., M.T."
   },
   {
     "kode": "IF103",
-    "nama": "Statistika",
+    "nama": "Matematika Diskrit",
     "sks": 2,
-    "dosen": "Dr. Joko Susilo"
+    "dosen": "Cahyo Prianto, S.Pd., M.T."
   },
   {
     "kode": "SI201",
-    "nama": "Analisis Sistem",
+    "nama": "Bahasa Inggris",
     "sks": 3,
-    "dosen": "Dr. Rina Wati"
+    "dosen": "Rd. Nuraini Siti Fathonah, S.S., M.Hum."
   },
   {
     "kode": "IF301",
-    "nama": "Pemrograman Web",
+    "nama": "Pemrograman 1",
     "sks": 4,
-    "dosen": "Dr. Andi Setiawan"
+    "dosen": "Roni Andarsyah, S.T., M.Kom."
   }
 ]

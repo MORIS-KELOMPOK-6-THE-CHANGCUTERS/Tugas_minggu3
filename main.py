@@ -1,6 +1,5 @@
 """
 Modul main: Menu utama dan alur program Sistem Data Mahasiswa.
-Maks 280 baris.
 """
 
 import penyimpanan

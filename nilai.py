@@ -1,6 +1,5 @@
 """
 Modul nilai: konversi nilai, perhitungan IPK, menu Input & Lihat IPK.
-Maks 130 baris. Menggunakan penyimpanan, validasi.
 """
 
 import penyimpanan

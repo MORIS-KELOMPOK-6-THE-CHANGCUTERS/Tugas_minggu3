@@ -1,6 +1,5 @@
 """
 Skrip seed data untuk Sistem Data Mahasiswa.
-Jalankan: python seed.py
 """
 
 import os
