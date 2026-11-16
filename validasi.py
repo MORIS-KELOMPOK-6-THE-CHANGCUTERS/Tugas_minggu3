@@ -1,6 +1,5 @@
 """
 Modul validasi: menangani verifikasi input data dan authentikasi PIN Admin.
-Hanya menggunakan library bawaan Python.
 """
 
 from datetime import datetime

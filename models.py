@@ -1,6 +1,5 @@
 """
 Modul models: definisi kelas Mahasiswa dan MataKuliah dengan serialisasi.
-Hanya menggunakan library bawaan Python.
 """
 
 

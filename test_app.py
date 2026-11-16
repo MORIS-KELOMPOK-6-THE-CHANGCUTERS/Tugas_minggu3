@@ -1,6 +1,5 @@
 """
 Unit test untuk Sistem Data Mahasiswa.
-Jalankan: python -m unittest -v test_app
 """
 
 import unittest
