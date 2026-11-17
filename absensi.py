@@ -1,6 +1,5 @@
 """
 Modul absensi: input absensi dan rekap kehadiran (Menu 5).
-Maks 140 baris. Menggunakan penyimpanan, validasi, nilai (cari_mahasiswa/cari_matakuliah).
 """
 
 import penyimpanan
